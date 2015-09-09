@@ -7,7 +7,8 @@
 //
 
 import UIKit
-import AlamofireImage
+import Alamofire
+
 
 class ViewController: UIViewController {
 

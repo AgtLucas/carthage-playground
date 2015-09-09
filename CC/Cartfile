@@ -1,1 +1,1 @@
-github "Alamofire/AlamofireImage" ~> 1.0
+github "Alamofire/Alamofire" >= 1.3
